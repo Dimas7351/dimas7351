@@ -33,13 +33,8 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">Я начинающий Backend разработчик. <br> - 🔭 - 🌱 Являюсь студентом школы 21 <br>- 📚 Прошел все курсы по Java и Spring ***by Alishev*** <br>-</p>
+<p align="left">Я начинающий Backend разработчик. <br> - 🔭 - 🌱 Являюсь студентом школы 21 <br>- 📚 Прошел все курсы по Java и Spring ***by Alishev*** <br></p>
 
-###
-
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
 
 ###
 
