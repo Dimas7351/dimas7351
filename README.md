@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Dimas7351/dimas7351** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,14 +15,14 @@ Here are some ideas to get you started:
 -->
 
 
+###
+
+<h1 align="center">Привет👋 Меня зовут Дмитрий!</h1>
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 <br>
 </div>
-
-###
-
-<h1 align="center">Привет👋 Меня зовут Дмитрий!</h1>
 
 - 🌱 Являюсь студентом школы 21
 
